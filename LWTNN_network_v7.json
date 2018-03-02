@@ -31,7 +31,7 @@
       "scale": 1
     },
     {
-      "name": "trk_dzClosestPVNorm",
+      "name": "trk_dzClosestPVClamped",
       "offset": 0,
       "scale": 1
     },
